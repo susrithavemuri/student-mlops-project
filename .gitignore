@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# MLflow old file-based tracking (if exists)
+mlruns/
+
+# Generated reports
+drift_report.html
+
+# OS files
+.DS_Store
+Thumbs.db
